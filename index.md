@@ -5,7 +5,7 @@ title: Dan Minsky's CV
 
 ![Harold](./media/sloth4_full.jpg){:.avatar}
 
-#Dan Minsky
+# Dan Minsky
 Computer Science Student and Math Teacher
 
 <div id="webaddress">
